@@ -1,8 +1,9 @@
 #navbarNav{
     justify-content: end;
 }
+
 #principal{
-    margin-top: 2%;
+    margin-top: 7%;
 }
 
 
@@ -11,3 +12,35 @@ div h5{
     margin-top: 15%;
     text-align: center;
 }
+
+
+
+  footer{
+    position:fixed;
+    bottom: 0%;
+    
+    height: 8%;
+    width: 100%;
+    background-color: black;
+    
+}
+
+footer p{
+    margin-top: 1%;
+    text-align: center;
+    color: white;
+}
+#foot{
+    margin-top: 15%;
+}
+
+
+
+    
+  
+
+    
+
+
+
+
