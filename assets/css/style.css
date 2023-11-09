@@ -6,23 +6,45 @@
     margin-top: 7%;
 }
 
+#principal2{
+    margin-top: 6%;
+    
+    
+}
 
+#ima{
+    max-width: 100%;
+}
+.img-fluid{
+    max-width: 50%;
+}
 
-div h5{
+.navbar{
+    background-color: gray;
+}
+
+.navbar a{
+    color: white;
+}
+
+body{
+    background-color:white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+#titulo {
     margin-top: 15%;
     text-align: center;
 }
 
-
-
-  footer{
+footer{
     position:fixed;
     bottom: 0%;
     
     height: 8%;
     width: 100%;
-    background-color: black;
-    
+    background-color: gray; 
 }
 
 footer p{
@@ -30,10 +52,16 @@ footer p{
     text-align: center;
     color: white;
 }
+
 #foot{
     margin-top: 15%;
 }
 
+.carousel-inner{
+    margin-top: 7%;
+    border-radius: 25px;
+   
+}
 
 
     
